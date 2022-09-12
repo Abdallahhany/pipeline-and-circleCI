@@ -4,6 +4,6 @@
         "backend:install": "cd reactnd-contacts-server && npm install",
         "frontend:build": "cd reactnd-contacts-complete && npm run build",
         "backend:build": "cd reactnd-contacts-server && npm run build",
-        "frontend:deply": "cd reactnd-contacts-complete && npm run deploy"
+        "frontend:deploy": "cd reactnd-contacts-complete && npm run deploy"
     }
 }
